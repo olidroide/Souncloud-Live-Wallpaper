@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    android:key="soundcloud_key_settings"
+    android:title="@string/soundcloud_title_settings" >
+
+    <EditTextPreference
+        android:id="@+id/username_preference"
+        android:key="username_key"
+        android:summary="Please enter your login username"
+        android:title="Username" />
+
+    <EditTextPreference
+        android:id="@+id/password_preference"
+        android:key="password_key"
+        android:inputType="textPassword"
+        android:summary="Enter your password"
+        android:title="Password" />
+
+</PreferenceScreen>

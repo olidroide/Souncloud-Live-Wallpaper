@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">SoundCloud Live Wallpaper</string>
+	<string name="soundcloud_title_settings">SoundCloud Live Wallpaper Settings</string>
+    <string name="soundcloud_wallpaper_label">SoundCloud Live Wallpaper</string>
+    <string name="list_wallpaper_description">Random waveforms of your Soundcloud favorites song. Double tap to listen it!!!</string>
+    <string name="error_login">The user or password not exist. Check again ;)</string>
+    <string name="error_invalid_user_pass">user or password are wrong, check again</string>
+    <string name="error_empty_user_pass">Please, login with your user and password</string>
+    <string name="error_no_api_connection">Check your internet connection</string>
+    <string name="doubletap_to_preferences">Double tap to go prefences screen</string>
+    
+</resources>
